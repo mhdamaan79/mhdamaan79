@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Mohd Amaan</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">An inspiring Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdamaan79&label=Profile%20views&color=0e75b6&style=flat" alt="mhdamaan79" /> </p>
