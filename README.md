@@ -3,8 +3,6 @@
 <h3 align="center">An inspiring Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhdamaan79&label=Profile%20views&color=0e75b6&style=flat" alt="mhdamaan79" /> </p>
-
 <p align="left"> <a href="https://twitter.com/mhdamaan79" target="blank"><img src="https://img.shields.io/twitter/follow/mhdamaan79?logo=twitter&style=for-the-badge" alt="mhdamaan79" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack & Java+DSA**
