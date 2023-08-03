@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/mhdamaan79/mhdamaan79/assets/118375524/e8feed6d-0f71-49fd-bd5b-3cb9d819e801)
 
 # 💫 About Me:
-👦 Pronouns: He/His<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Frontend Development<br>📫 How to reach me: Check the social links below<br>⚡ Fun fact I love connecting and socializing with new people
+👦 Pronouns: He/His<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Frontend Development<br>📫 How to reach me: Check the social links below<br>⚡ Fun fact: I love connecting and socializing with new people
 
 
 ## 🌐 Socials:
