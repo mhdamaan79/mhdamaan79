@@ -1,21 +1,34 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
-<h1 align="center">Hi 👋, I'm Mohd Amaan</h1>
-<h3 align="center">An inspiring Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://goofy-goldstine-0f8bb1.netlify.app/img/web.gif">
+![MasterHead](https://github.com/mhdamaan79/mhdamaan79/assets/118375524/e8feed6d-0f71-49fd-bd5b-3cb9d819e801)
 
-<p align="left"> <a href="https://twitter.com/mhdamaan79" target="blank"><img src="https://img.shields.io/twitter/follow/mhdamaan79?logo=twitter&style=for-the-badge" alt="mhdamaan79" /></a> </p>
+# 💫 About Me:
+👦 Pronouns: He/His<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about Frontend Development<br>📫 How to reach me: Check the social links below<br>⚡ Fun fact I love connecting and socializing with new people
 
-- 🌱 I’m currently learning **MERN Stack & Java+DSA**
 
-- 📫 How to reach me **mhdamaan79@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhdamaan79) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mhdamaan79) 
 
-- ⚡ Fun fact **I love connecting & socializing with new people.**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mhdamaan79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mhdamaan79" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mhdamaan79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohd-amaan-602964255/" height="30" width="40" /></a>
+# 🚀 GitHub Profile Summary Card:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhdamaan79&theme=tokyonight"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+# 📊 GitHub Stats:
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=mhdamaan79&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdamaan79&theme=vision-friendly-dark&hide_border=true"/>
+</p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=mhdamaan79&icon=8&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mhdamaan79) 
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
