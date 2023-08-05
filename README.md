@@ -28,7 +28,7 @@
 </p>
 
 <!--Github Stats-->
-<p align="">
+<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=mhdamaan79&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhdamaan79&theme=vision-friendly-dark&hide_border=true"/>
 </p>
