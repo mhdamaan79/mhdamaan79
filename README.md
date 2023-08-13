@@ -1,7 +1,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![MasterHead](https://github.com/mhdamaan79/mhdamaan79/assets/118375524/f4f66a3c-d5f2-4805-81a3-5ee9e229535a)
+![Black Technology LinkedIn Banner](https://github.com/mhdamaan79/mhdamaan79/assets/118375524/63b0df0a-5c7a-44e5-a5b0-2d8465582117)
+<!-- ![MasterHead](https://github.com/mhdamaan79/mhdamaan79/assets/118375524/f4f66a3c-d5f2-4805-81a3-5ee9e229535a) -->
 <!--![MasterHead](https://github.com/mhdamaan79/mhdamaan79/assets/118375524/e8feed6d-0f71-49fd-bd5b-3cb9d819e801) -->
 
 <!--h2 without bottom border-->
