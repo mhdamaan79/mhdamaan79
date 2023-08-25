@@ -13,7 +13,7 @@
 </div>
 
 <!--Intro start-->
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **MERN Full Stack Development**
 
 - 🧠 I'm currently learning **Java + DSA**
   
